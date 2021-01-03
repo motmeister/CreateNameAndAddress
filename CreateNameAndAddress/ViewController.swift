@@ -6,6 +6,7 @@
 //
 
 import Cocoa
+// a change at github.com
 
 
 class ViewController: NSViewController {
